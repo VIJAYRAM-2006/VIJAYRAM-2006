@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VIJAYRAM-2006
 - 👀 I’m interested in Ethical Hacking
-- 🌱 I’m currently learning Python & JAVA
+- 🌱 I’m currently learning Python, C, C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ vijayram.pannala@gmail.com and via phone +91 70755 71163
 - 😄 Pronouns: ...
